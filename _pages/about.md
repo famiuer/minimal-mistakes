@@ -2,6 +2,7 @@
 title: "About"
 permalink: "/about/"
 layout: post
+author_profile: true
 #categories: blog
 #header: 
 
