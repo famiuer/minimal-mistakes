@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "Welcome to My site!"
 date:   2018-12-22 12:19:55 +0800
 categories: blog

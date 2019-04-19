@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "Build my website"
 date:   2018-12-23 10:44:00 +0800
 categories: blog
