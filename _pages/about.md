@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about/"
-layout: post
+layout: default
 author_profile: true
 #categories: blog
 #header: 
